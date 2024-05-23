@@ -1,0 +1,14 @@
+[project]
+name = "comfyui_nodes_nicolai256"
+description = "Nodes: yugioh_Presets. by Nicolai256 inspired by throttlekitty SDXLAspectRatio"
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/nicolai256/comfyUI_Nodes_nicolai256"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "comfyUI_Nodes_nicolai256"
+Icon = ""
